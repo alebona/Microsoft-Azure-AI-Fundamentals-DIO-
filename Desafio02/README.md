@@ -9,3 +9,5 @@ Passo a passo:
 ![p2](https://github.com/alebona/Microsoft-Azure-AI-Fundamentals-DIO-/assets/6590228/941663a0-6c75-4695-ba8b-86bfac455755)
 ![p3](https://github.com/alebona/Microsoft-Azure-AI-Fundamentals-DIO-/assets/6590228/17079f8b-349b-4760-9986-a2f7b632aee8)
 ![p4](https://github.com/alebona/Microsoft-Azure-AI-Fundamentals-DIO-/assets/6590228/6b90e480-5828-4e7c-af03-3f02401cfe8b)
+![p5](https://github.com/alebona/Microsoft-Azure-AI-Fundamentals-DIO-/assets/6590228/5a874733-6761-4867-a6ed-80cb90f6ff34)
+
