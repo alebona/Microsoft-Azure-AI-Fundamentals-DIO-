@@ -26,6 +26,10 @@ Passo a Passo - Desafio 04 - Azure Cognitive Search
   ![p12](https://github.com/alebona/Microsoft-Azure-AI-Fundamentals-DIO-/assets/6590228/f4470813-85b9-4167-a83a-96be3eeafe59)
 
 
+  Para mais detalhes consulte a documentação em:
+  https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html
+
+
 
 
 
